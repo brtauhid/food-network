@@ -36,23 +36,3 @@ section.top-section h1 span {
 .top-section-text {
     margin-top: 120px;
 }
-
-.about-me-section-image img {
-    width: 50%;
-}
-
-.about-me-section {
-    background-image: url(images/about-me-bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-.about-me-section {
-    padding-top: 50px;
-    margin-right: 90px;
-}
-
-.about-me-section h1 {
-    margin-top: 70px;
-}
